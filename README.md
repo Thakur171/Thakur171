@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Thakur
 
-<!--
-**Thakur171/Thakur171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | AIML | Chandigarh University  
+💡 Passionate about Data Science, AI, and solving real-world problems  
+📈 Currently learning Python, SQL, and Machine Learning  
+🌱 Building projects to boost my skills and profile  
+📚 CGPA doesn’t define me — projects and consistency do  
+💼 Actively looking for internships in Data Analytics / AI
 
-Here are some ideas to get you started:
+## 🚀 Skills I'm Learning
+- Python, Pandas, NumPy, Matplotlib
+- SQL, Excel
+- Jupyter Notebook
+- Git & GitHub
+- Machine Learning (beginner level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Portfolio Projects (Coming Soon)
+- IPL Data Analysis using Python
+- Netflix Watch Trends Visualizer
+- COVID-19 India Dashboard
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/harsh-thakur-156562250/) 
+- Email: thakurharsh3957@gmail.com 
