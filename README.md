@@ -9,13 +9,14 @@
 
 ## 🚀 Skills I'm Learning
 - Python, Pandas, NumPy, Matplotlib
-- SQL, Excel
-- Jupyter Notebook
+- SQL,
+- Excel
+- Power BI
 - Git & GitHub
 - Machine Learning (beginner level)
 
-## 📊 Portfolio Projects (Coming Soon)
-- IPL Data Analysis using Python
+## 📊 Portfolio Projects 
+- zepto-sales-analysis-sql
 - Netflix Watch Trends Visualizer
 - COVID-19 India Dashboard
 
