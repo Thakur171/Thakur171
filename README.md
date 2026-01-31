@@ -17,8 +17,6 @@
 
 ## 📊 Portfolio Projects 
 - zepto-sales-analysis-sql
-- Netflix Watch Trends Visualizer
-- COVID-19 India Dashboard
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/harsh-thakur-156562250/) 
